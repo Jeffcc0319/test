@@ -10,7 +10,7 @@ void maxx(int, int*);
 int main()
 {
     int arr[3];
-
+ffffffffffffffffffffffffffffffffffffff
     for(int i = 0; i < 3; i++)
     {
         arr[i] = rand()%10+1;
